@@ -16,6 +16,6 @@
 <url> <loc>http://benjifischman.com/categories/research/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/categories/design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/categories/misc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://benjifischman.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://benjifischman.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
