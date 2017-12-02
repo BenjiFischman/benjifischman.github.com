@@ -1,32 +1,32 @@
 {
   "assetsByChunkName": {
     "path---tags-data-vizulization": [
-      "path---tags-data-vizulization-e5b141a798f858650117.js",
-      "path---tags-data-vizulization-e5b141a798f858650117.js.map"
+      "path---tags-data-vizulization-8cff6eee3e406e11921e.js",
+      "path---tags-data-vizulization-8cff6eee3e406e11921e.js.map"
     ],
     "path---tags-blog": [
-      "path---tags-blog-818664900846e286f457.js",
-      "path---tags-blog-818664900846e286f457.js.map"
+      "path---tags-blog-0281d8b6d0070cbe7be9.js",
+      "path---tags-blog-0281d8b6d0070cbe7be9.js.map"
     ],
     "path---addiction-recovery": [
-      "path---addiction-recovery-2efb9e8cebcb46c69a47.js",
-      "path---addiction-recovery-2efb9e8cebcb46c69a47.js.map"
+      "path---addiction-recovery-a13d32cd68d541748156.js",
+      "path---addiction-recovery-a13d32cd68d541748156.js.map"
     ],
     "path---tags-personal": [
-      "path---tags-personal-13882ed260e4830b19f9.js",
-      "path---tags-personal-13882ed260e4830b19f9.js.map"
+      "path---tags-personal-3a2478236871a6eedd62.js",
+      "path---tags-personal-3a2478236871a6eedd62.js.map"
     ],
     "path---tags-creative-writing": [
-      "path---tags-creative-writing-b12c53f2860a181ee0a6.js",
-      "path---tags-creative-writing-b12c53f2860a181ee0a6.js.map"
+      "path---tags-creative-writing-4512dc083129c0c83025.js",
+      "path---tags-creative-writing-4512dc083129c0c83025.js.map"
     ],
     "path---tags-web-dev": [
-      "path---tags-web-dev-dcd7c4591049f1bb8c91.js",
-      "path---tags-web-dev-dcd7c4591049f1bb8c91.js.map"
+      "path---tags-web-dev-8d3d77e774d2c46bc0d9.js",
+      "path---tags-web-dev-8d3d77e774d2c46bc0d9.js.map"
     ],
     "path---tags-human-computer-interactions": [
-      "path---tags-human-computer-interactions-8cb00999cbad237b018e.js",
-      "path---tags-human-computer-interactions-8cb00999cbad237b018e.js.map"
+      "path---tags-human-computer-interactions-7fff5efaf4d9c1b97af7.js",
+      "path---tags-human-computer-interactions-7fff5efaf4d9c1b97af7.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -45,36 +45,36 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---categories-research": [
-      "path---categories-research-b06a7062505fd89bf1be.js",
-      "path---categories-research-b06a7062505fd89bf1be.js.map"
+      "path---categories-research-71335b3e9c76d12e5bcd.js",
+      "path---categories-research-71335b3e9c76d12e5bcd.js.map"
     ],
     "path---tags-ux": [
-      "path---tags-ux-048840d24d71f0d04663.js",
-      "path---tags-ux-048840d24d71f0d04663.js.map"
+      "path---tags-ux-5635b03284155cf76e70.js",
+      "path---tags-ux-5635b03284155cf76e70.js.map"
     ],
     "path---categories-misc": [
-      "path---categories-misc-88595dc70df70417495e.js",
-      "path---categories-misc-88595dc70df70417495e.js.map"
+      "path---categories-misc-a295c67772f10d3a4c74.js",
+      "path---categories-misc-a295c67772f10d3a4c74.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-04a9496049863016d7c6.js",
       "component---src-templates-category-jsx-04a9496049863016d7c6.js.map"
     ],
     "path---tags-mobile-dev": [
-      "path---tags-mobile-dev-7dd1a6d40e4270097a1b.js",
-      "path---tags-mobile-dev-7dd1a6d40e4270097a1b.js.map"
+      "path---tags-mobile-dev-259bab3b41bfd9acd41a.js",
+      "path---tags-mobile-dev-259bab3b41bfd9acd41a.js.map"
     ],
     "path---index": [
-      "path---index-2ab7532ac64a8d5315e5.js",
-      "path---index-2ab7532ac64a8d5315e5.js.map"
+      "path---index-e198bf4ba4b74899ac00.js",
+      "path---index-e198bf4ba4b74899ac00.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-7fe981e1965e4c049936.js",
-      "path---hello-world-7fe981e1965e4c049936.js.map"
+      "path---hello-world-861ffd65fe0541c14498.js",
+      "path---hello-world-861ffd65fe0541c14498.js.map"
     ],
     "commons": [
       "commons-689d8caf4d6d5f5239c5.js",
@@ -87,8 +87,8 @@
       "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js.map"
     ],
     "path---categories-design": [
-      "path---categories-design-c36eb3645d3b5dbb8a0c.js",
-      "path---categories-design-c36eb3645d3b5dbb8a0c.js.map"
+      "path---categories-design-9478ebcfe9ebb54656e6.js",
+      "path---categories-design-9478ebcfe9ebb54656e6.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -103,13 +103,13 @@
       "component---src-pages-index-jsx-49f3c340c7ecf5237230.js.map"
     ],
     "path---u-discover": [
-      "path---u-discover-d64779664417f4e61b07.js",
-      "path---u-discover-d64779664417f4e61b07.js.map"
+      "path---u-discover-41ac87dcf14ab75d059d.js",
+      "path---u-discover-41ac87dcf14ab75d059d.js.map"
     ],
     "app": [
-      "app-3176d90884acfa55ced5.js",
+      "app-db359e11d8ddaf1f87e2.js",
       "build-js-styles.css",
-      "app-3176d90884acfa55ced5.js.map",
+      "app-db359e11d8ddaf1f87e2.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [

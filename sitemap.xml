@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>http://benjifischman.com/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/addiction-recovery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://benjifischman.com/hello-world</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/spark-dj</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/u-discover</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://benjifischman.com/hello-world</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/tags/human-computer-interactions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/tags/web-dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/tags/data-vizulization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://benjifischman.com/tags/ux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://benjifischman.com/tags/mobile-dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/tags/personal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/tags/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/tags/creative-writing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://benjifischman.com/tags/ux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://benjifischman.com/tags/mobile-dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/categories/research/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://benjifischman.com/categories/misc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/categories/design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://benjifischman.com/categories/misc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://benjifischman.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

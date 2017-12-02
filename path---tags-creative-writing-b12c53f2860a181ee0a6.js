@@ -1,2 +1,0 @@
-webpackJsonp([45765688904474],{452:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/hello-world"},excerpt:'This is the first of many posts on my new blog! You may be asking yourself,\n  "Who is Benji, and why do I care?" Great question! My…',timeToRead:1,frontmatter:{title:"Hello World!",tags:["Personal","Blog","Creative Writing"],cover:"/logos/logo-1024.png",date:"11/01/2017"}}}]}},pathContext:{tag:"Creative Writing"}}}});
-//# sourceMappingURL=path---tags-creative-writing-b12c53f2860a181ee0a6.js.map
