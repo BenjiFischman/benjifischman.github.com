@@ -77,9 +77,9 @@
       "path---hello-world-02ad8f53c47752f2fbbc.js.map"
     ],
     "commons": [
-      "commons-ce739587a96ee2e3ab03.js",
+      "commons-689d8caf4d6d5f5239c5.js",
       "build-js-styles.css",
-      "commons-ce739587a96ee2e3ab03.js.map",
+      "commons-689d8caf4d6d5f5239c5.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -107,9 +107,9 @@
       "path---u-discover-a30d78c216975dbf1a53.js.map"
     ],
     "app": [
-      "app-a56881f7630a16816c51.js",
+      "app-cdfe62ae4837c1af60da.js",
       "build-js-styles.css",
-      "app-a56881f7630a16816c51.js.map",
+      "app-cdfe62ae4837c1af60da.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [
