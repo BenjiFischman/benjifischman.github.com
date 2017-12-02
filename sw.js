@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/BenjiBlog/app-db359e11d8ddaf1f87e2.js","029ae6cf2fe717f903a5ac02746256ef"],["/BenjiBlog/commons-5d41e6461aaf5e455d40.js","e3544aabf01b5a50f6f220b6545721d8"],["/BenjiBlog/index.html","47de560ffc9aef26c3bf65ace66a5541"],["/BenjiBlog/manifest.json","b06de9eb84540af7049b9272ae5e3d0a"],["/BenjiBlog/offline-plugin-app-shell-fallback/index.html","801c6b3639ba6ff7159fd8c88be4c432"]];
+var precacheConfig = [["/benjifischman.github.com/app-a56881f7630a16816c51.js","c5a372b00da2f5a5640cb94485fd249a"],["/benjifischman.github.com/app-db359e11d8ddaf1f87e2.js","029ae6cf2fe717f903a5ac02746256ef"],["/benjifischman.github.com/commons-1a6e23f6de38c4c857cb.js","ca3ada3fec9feef3b29c1e769f96820f"],["/benjifischman.github.com/commons-5d41e6461aaf5e455d40.js","e3544aabf01b5a50f6f220b6545721d8"],["/benjifischman.github.com/index.html","01d8b5d9dc01ec7fa9d4d5f621cedc1e"],["/benjifischman.github.com/manifest.json","75b2e7158a84a6ea9463460fb89aa2bf"],["/benjifischman.github.com/offline-plugin-app-shell-fallback/index.html","5691451bbec9d9bf7cd901186dd9f95f"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
