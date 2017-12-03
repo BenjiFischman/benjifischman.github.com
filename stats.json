@@ -37,8 +37,8 @@
       "component---src-layouts-index-jsx-98ebe6fa0e92df8c9bc4.js.map"
     ],
     "path---spark-dj": [
-      "path---spark-dj-e7c29fe12eadb920faa7.js",
-      "path---spark-dj-e7c29fe12eadb920faa7.js.map"
+      "path---spark-dj-c847d4982016ac612df8.js",
+      "path---spark-dj-c847d4982016ac612df8.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -49,8 +49,8 @@
       "path---categories-research-71335b3e9c76d12e5bcd.js.map"
     ],
     "path---tags-ux": [
-      "path---tags-ux-5635b03284155cf76e70.js",
-      "path---tags-ux-5635b03284155cf76e70.js.map"
+      "path---tags-ux-f61833b5d0f4effedd36.js",
+      "path---tags-ux-f61833b5d0f4effedd36.js.map"
     ],
     "path---categories-misc": [
       "path---categories-misc-a295c67772f10d3a4c74.js",
@@ -61,25 +61,25 @@
       "component---src-templates-category-jsx-04a9496049863016d7c6.js.map"
     ],
     "path---tags-mobile-dev": [
-      "path---tags-mobile-dev-259bab3b41bfd9acd41a.js",
-      "path---tags-mobile-dev-259bab3b41bfd9acd41a.js.map"
+      "path---tags-mobile-dev-9ae79b897bbfff579be6.js",
+      "path---tags-mobile-dev-9ae79b897bbfff579be6.js.map"
     ],
     "path---index": [
-      "path---index-e198bf4ba4b74899ac00.js",
-      "path---index-e198bf4ba4b74899ac00.js.map"
+      "path---index-a4209f7ba9f1e7bc735a.js",
+      "path---index-a4209f7ba9f1e7bc735a.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-861ffd65fe0541c14498.js",
-      "path---hello-world-861ffd65fe0541c14498.js.map"
+      "path---hello-world-667e29f0c824b6587ae4.js",
+      "path---hello-world-667e29f0c824b6587ae4.js.map"
     ],
     "commons": [
-      "commons-689d8caf4d6d5f5239c5.js",
+      "commons-1b564dc03c9a58ac5dd5.js",
       "build-js-styles.css",
-      "commons-689d8caf4d6d5f5239c5.js.map",
+      "commons-1b564dc03c9a58ac5dd5.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
@@ -87,8 +87,8 @@
       "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js.map"
     ],
     "path---categories-design": [
-      "path---categories-design-9478ebcfe9ebb54656e6.js",
-      "path---categories-design-9478ebcfe9ebb54656e6.js.map"
+      "path---categories-design-f08a14025045feadc5c0.js",
+      "path---categories-design-f08a14025045feadc5c0.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
